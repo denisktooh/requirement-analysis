@@ -41,6 +41,8 @@ Define how the system should perform:
 
 Use Case Diagrams visually represent interactions between users (actors) and the system. They help identify system functionalities and facilitate communication among stakeholders.
 
+![Use Case Diagram](https://drive.google.com/file/d/1oEShId0n2KYQN8ikWtD3YDHDMbNN7oBF/view?usp=sharing)
+
 ## Acceptance Criteria
 
 Acceptance Criteria define the conditions a feature must meet for stakeholder approval. They ensure clarity and provide a basis for testing.
